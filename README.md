@@ -13,8 +13,8 @@ Are you still interested? If so, see the challenge below to continue with the as
 
 # :muscle: The Challenge
 
-## Foundation for Emails
+## :e-mail: Foundation for Emails
 
-## Testing
+## :white_check_mark: Testing
 
-# Grading Criteria
+# :pencil: Grading Criteria

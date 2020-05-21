@@ -13,8 +13,21 @@ Are you still interested? If so, see the challenge below to continue with the as
 
 # :muscle: The Challenge
 
-## :e-mail: Foundation for Emails
+Your challenge is to take the design and code that we've provided and use them to build an outstanding email that:
 
-## :white_check_mark: Testing
+- Is reasonably accurate to the design
+- Works in modern email clients
+- Takes full advantage of Foundation for Emails
+- Is easy for other developers to understand
 
-# :pencil: Grading Criteria
+See each section below for further guidance.
+
+## :art: The Design
+
+## :e-mail: The Code
+
+### Foundation for Emails
+
+## :white_check_mark: The Tests
+
+# :pencil: The Grading Criteria

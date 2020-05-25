@@ -30,7 +30,11 @@ We've included a design that we'd like you to replicate. This design isn't pixel
 
 ## :e-mail: The Code
 
-### Foundation for Emails
+We'd like you to use [Foundation for Emails](https://get.foundation/emails.html) to translate the provided design into a functioning email.  If you're not familiar with Foundation for Emails, please read the [documentation](https://get.foundation/emails/docs/). We want you to take full advantage of the build system. Use SASS, Inky, and the build scripts, if possible.
+
+We've included a Foundation for Emails project in this repo that we created using [Foundation-CLI](https://github.com/foundation/foundation-cli). You're going to want to use Foundation-CLI to make your life easier while building the email!
+
+If you're having trouble with a particular section, you've got some freedom to move things around to make the design work. Please keep a note on the wins and struggles because we'll want to chat about that later! Don't overthink it!
 
 ## :white_check_mark: The Tests
 

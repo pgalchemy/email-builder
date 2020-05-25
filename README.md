@@ -24,7 +24,7 @@ See each section below for further guidance.
 
 ## :art: The Design
 
-![Animated image of email to be built](https://res.cloudinary.com/alcmy/image/upload/v1590384394/alchemy/email.gif)
+![Animated image of email to be built](https://res.cloudinary.com/alcmy/image/upload/v1590389154/alchemy/email.gif)
 
 ## :e-mail: The Code
 

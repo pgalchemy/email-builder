@@ -26,7 +26,7 @@ See each section below for further guidance.
 
 ![Animated image of email to be built](https://res.cloudinary.com/alcmy/image/upload/v1590389154/alchemy/email.gif)
 
-We've included a design that we'd like you to replicate. This design isn't pixel perfect. It could use the touch of a developer to standardize some of the measurements. We've pre-sliced the assets and tossed them into the `email-assets` folder, along with the Sketch and PSD files. If you don't have Sketch or Invision, you can use this Invision and inspect mode to get better details. Head to the Code section next.
+We've included a design that we'd like you to replicate. This design isn't pixel perfect. It could use the touch of a developer to standardize some of the measurements. We've pre-sliced the assets and tossed them into the `email-assets` folder, along with the Sketch and PSD files. If you don't have Sketch or Photoshop, you can use [Invision](https://pg.invisionapp.com/share/BWXGOS29YZM). Unfortunately, we can't give you access to inspect mode, so you'll have to work out the measurements yourself. Head to the Code section next.
 
 ## :e-mail: The Code
 
@@ -37,7 +37,5 @@ We've included a Foundation for Emails project in this repo that we created usin
 If you're having trouble with a particular section, you've got some freedom to move things around to make the design work. Please keep a note on the wins and struggles because we'll want to chat about that later! Don't overthink it!
 
 ## :white_check_mark: The Tests
-
-
 
 # :pencil: The Grading Criteria

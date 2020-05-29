@@ -16,9 +16,9 @@ Are you still interested? If so, see the challenge below to continue with the as
 Your challenge is to take the design and code that we've provided and use them to build an outstanding email that:
 
 - Is reasonably accurate to the design
-- Works in modern email clients
 - Takes full advantage of Foundation for Emails
 - Is easy for other developers to understand
+- Works in modern email clients
 
 See each section below for further guidance.
 
@@ -38,4 +38,17 @@ If you're having trouble with a particular section, you've got some freedom to m
 
 ## :white_check_mark: The Tests
 
+If you want to test, you'll need to sign up for a trial [Litmus](https://www.litmus.com/) account. You can manually upload your code, use [Putsmail](https://putsmail.com/tests/new) to send test emails, or use the Litmus/AWS scripts already available in `package.json`.
+
+# Taking Notes
+
+We've created a markdown file for you called `notes.md`. In that file, we'd like to keep track of your general thoughts on the assessment, what you learned, the challenges you experienced, and what you would do if you had more time. Additionally, it's important to consistently commit with notes on what you are working on. You don't need to overthink it or format it a special way, though.
+
 # :pencil: The Grading Criteria
+
+We will be looking at your email, your notes and commit messages to see if your email
+
+- Is reasonably accurate to the design
+- Takes advantage of Foundation for Emails
+- Is easy for other developers to understand
+- Works in modern email clients

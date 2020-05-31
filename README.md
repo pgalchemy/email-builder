@@ -36,6 +36,8 @@ We've included a Foundation for Emails project in this repo that we created usin
 
 If you're having trouble with a particular section, you've got some freedom to move things around to make the design work. Please keep a note on the wins and struggles because we'll want to chat about that later! Don't overthink it!
 
+NOTE: You may need to change your version of node to get Foundation CLI running. We've included an `.nvmrc` file to help you manage node versions with [Node Version Manager](https://github.com/nvm-sh/nvm).
+
 ## :white_check_mark: The Tests
 
 If you want to test, you'll need to sign up for a trial [Litmus](https://www.litmus.com/) account. You can manually upload your code, use [Putsmail](https://putsmail.com/tests/new) to send test emails, or use the Litmus/AWS scripts already available in `package.json`.

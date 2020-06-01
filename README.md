@@ -13,11 +13,13 @@ Are you still interested? If so, see the challenge below to continue with the as
 
 # :muscle: The Challenge
 
-Your challenge is to take the design and code that we've provided and use them to build an outstanding email that:
+Your challenge is to take the design and code that we've provided and use them to build an email that:
 
 - Is reasonably accurate to the design
 - Takes advantage of Foundation for Emails
 - Is easy for other developers to understand
+
+Here's the thing - We don't want you to spend more than 3 to 5 hours on this assessment over the course of one week. Do what you can, keep track of everything and have a good time! If you have any issues or get stuck, feel free to reach out to your Alchemy representative.
 
 See each section below for further guidance.
 
@@ -29,23 +31,24 @@ We've included a design that we'd like you to replicate. This design isn't pixel
 
 ## :e-mail: The Code
 
-We'd like you to use [Foundation for Emails](https://get.foundation/emails.html) to translate the provided design into a functioning email. If you're not familiar with Foundation for Emails, please read the [documentation](https://get.foundation/emails/docs/). We want you to take full advantage of the build system. Use SASS, Inky, and the build scripts, if possible.
+We'd like you to use [Foundation for Emails](https://get.foundation/emails.html) to translate the provided design into a functioning email. If you're not familiar with Foundation for Emails, please read the [documentation](https://get.foundation/emails/docs/). We want you to take advantage of the build system. Use SASS and Inky to build make it easier!
 
-We've included a Foundation for Emails project in this repo that we created using [Foundation-CLI](https://github.com/foundation/foundation-cli). You're going to want to use Foundation-CLI to make your life easier while building the email! All you need to do is clone this repo and drop it into a new repo on your Github account. Don't fork because we want to try to limit folks copying off of other assessments. Once you've got it on Github, start building! Make sure you are consistently pushing your changes! We want to see your thought process!
+We've included a Foundation for Emails project in this repo that we created using [Foundation-CLI](https://github.com/foundation/foundation-cli). All you need to do is clone this repo and drop it into a new repo on your Github account. Don't fork because we want to try to limit folks copying off of other assessments. Once you've got it on Github, start building! Make sure you are consistently pushing your changes! We want to see your thought process!
 
 If you're having trouble with a particular section, you've got some freedom to move things around to make the design work. Please keep a note on the wins and struggles because we'll want to chat about that later! Don't overthink it!
 
-NOTE: You may need to change your version of node to get Foundation CLI running. We've included an `.nvmrc` file to help you manage node versions with [Node Version Manager](https://github.com/nvm-sh/nvm).
+NOTE: You don't need to download Foundation CLI for this project if you don't want to. However, if you do you may need to change your version of node to get Foundation CLI running. We've included an `.nvmrc` file to help you manage node versions with [Node Version Manager](https://github.com/nvm-sh/nvm).
 
-# Taking Notes
+# :pencil: Taking Notes
 
 We've created a markdown file for you called `notes.md`. In that file, we'd like to keep track of your general thoughts on the assessment, what you learned, the challenges you experienced, and what you would do if you had more time. Additionally, it's important to consistently commit with notes on what you are working on. You don't need to overthink it or format it a special way, though.
 
-# :pencil: The Grading Criteria
+# :star: The Grading Criteria
 
 We will be looking at your email, your notes and commit messages to see if your email
 
 - Is reasonably accurate to the design
 - Takes advantage of Foundation for Emails
 - Is easy for other developers to understand
-- Works in modern email clients
+
+Good luck! You're gonna do great! :ok_hand:

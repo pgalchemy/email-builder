@@ -35,7 +35,7 @@ We'd like you to use [Foundation for Emails](https://get.foundation/emails.html)
 
 We've included a Foundation for Emails project in this repo that we created using [Foundation-CLI](https://github.com/foundation/foundation-cli). All you need to do is clone this repo and drop it into a new repo on your Github account. Don't fork because we want to try to limit folks copying off of other assessments. Once you've got it on Github, start building! Make sure you are consistently pushing your changes! We want to see your thought process!
 
-If you're having trouble with a particular section, don't fret! We're not expecting perfection, and we're much more interested in your process. Did you go back to the docs? Watch [a video on the Foundation website about using images in emails(https://get.foundation/learn/adding-images-best-practices-foundation-for-emails-dave-horan.html)]? Please keep a note on the wins and struggles because we'll want to chat about that later!
+If you're having trouble with a particular section, don't fret! We're not expecting perfection, and we're much more interested in your process. Did you go back to the docs? Watch [a video on the Foundation website about using images in emails](https://get.foundation/learn/adding-images-best-practices-foundation-for-emails-dave-horan.html)? Please keep a note on the wins and struggles because we'll want to chat about that later!
 
 NOTE: You don't need to download Foundation CLI for this project if you don't want to. However, if you do you may need to change your version of node to get Foundation CLI running. We've included an `.nvmrc` file to help you manage node versions with [Node Version Manager](https://github.com/nvm-sh/nvm).
 

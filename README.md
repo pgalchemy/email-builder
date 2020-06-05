@@ -27,7 +27,7 @@ See each section below for further guidance.
 
 ![Animated image of email to be built](https://res.cloudinary.com/alcmy/image/upload/v1590389154/alchemy/email.gif)
 
-We've included a design that we'd like you to replicate. This design isn't pixel perfect. It could use the touch of a developer to standardize some of the measurements. We've pre-sliced the assets and tossed them into the `email-assets` folder, along with the Sketch and PSD files. If you don't have Sketch or Photoshop, you can use [Invision](https://pg.invisionapp.com/share/BWXGOS29YZM). Unfortunately, we can't give you access to inspect mode, so you'll have to estimate measurements yourself. Feel free to use image editing software like [Photopea](https://www.photopea.com/), [GNU Image Manipulation Program](https://www.gimp.org/), or any tool you find helpful. Head to the Code section next.
+We've included a design that we'd like you to replicate. This design isn't pixel perfect. It could use the touch of a developer to standardize some of the measurements. We've pre-sliced the assets and tossed them into the `email-assets` folder, along with the Sketch and PSD files in case you happen to use Sketch or Photoshop. We inspect email designs using [Invision](https://pg.invisionapp.com/share/BWXGOS29YZM), but unfortunately we can't give you access to Inspect Mode, so you'll need to find another way to assess colors & measurements. The good news is there are plenty of free tools such as [Pixspy](https://pixspy.com/), [Photopea](https://www.photopea.com/), and [GNU Image Manipulation Program](https://www.gimp.org/) at your disposal if you need them. Head to the Code section next.
 
 ## :e-mail: The Code
 

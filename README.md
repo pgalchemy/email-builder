@@ -27,15 +27,15 @@ See each section below for further guidance.
 
 ![Animated image of email to be built](https://res.cloudinary.com/alcmy/image/upload/v1590389154/alchemy/email.gif)
 
-We've included a design that we'd like you to replicate. This design isn't pixel perfect. It could use the touch of a developer to standardize some of the measurements. We've pre-sliced the assets and tossed them into the `email-assets` folder, along with the Sketch and PSD files. If you don't have Sketch or Photoshop, you can use [Invision](https://pg.invisionapp.com/share/BWXGOS29YZM). Unfortunately, we can't give you access to inspect mode, so you'll have to work out the measurements yourself. If you don't have image editing software, you can use something like [Photopea](https://www.photopea.com/) or download the [GNU Image Manipulation Program](https://www.gimp.org/). Head to the Code section next.
+We've included a design that we'd like you to replicate. This design isn't pixel perfect. It could use the touch of a developer to standardize some of the measurements. We've pre-sliced the assets and tossed them into the `email-assets` folder, along with the Sketch and PSD files. If you don't have Sketch or Photoshop, you can use [Invision](https://pg.invisionapp.com/share/BWXGOS29YZM). Unfortunately, we can't give you access to inspect mode, so you'll have to estimate measurements yourself. Feel free to use image editing software like [Photopea](https://www.photopea.com/), [GNU Image Manipulation Program](https://www.gimp.org/), or any tool you find helpful. Head to the Code section next.
 
 ## :e-mail: The Code
 
-We'd like you to use [Foundation for Emails](https://get.foundation/emails.html) to translate the provided design into a functioning email. If you're not familiar with Foundation for Emails, please read the [documentation](https://get.foundation/emails/docs/). We want you to take advantage of the build system. Use SASS and Inky to build make it easier!
+We'd like you to use [Foundation for Emails](https://get.foundation/emails.html) to translate the provided design into a functioning email. If you're not familiar with Foundation for Emails, please read the [documentation](https://get.foundation/emails/docs/). We want you to take advantage of the build system. Use SASS and Inky to make it easier!
 
 We've included a Foundation for Emails project in this repo that we created using [Foundation-CLI](https://github.com/foundation/foundation-cli). All you need to do is clone this repo and drop it into a new repo on your Github account. Don't fork because we want to try to limit folks copying off of other assessments. Once you've got it on Github, start building! Make sure you are consistently pushing your changes! We want to see your thought process!
 
-If you're having trouble with a particular section, you've got some freedom to move things around to make the design work. Please keep a note on the wins and struggles because we'll want to chat about that later! Don't overthink it!
+If you're having trouble with a particular section, don't fret! We're not expecting perfection, and we're much more interested in your process. Did you go back to the docs? Watch [a video on the Foundation website about using images in emails(https://get.foundation/learn/adding-images-best-practices-foundation-for-emails-dave-horan.html)]? Please keep a note on the wins and struggles because we'll want to chat about that later!
 
 NOTE: You don't need to download Foundation CLI for this project if you don't want to. However, if you do you may need to change your version of node to get Foundation CLI running. We've included an `.nvmrc` file to help you manage node versions with [Node Version Manager](https://github.com/nvm-sh/nvm).
 
